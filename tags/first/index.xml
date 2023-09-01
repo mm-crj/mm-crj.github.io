@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Sep 2022 22:13:29 +0200</lastBuildDate><atom:link href="https://mm-crj.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Sep 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://mm-crj.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Derivative Dilemma</title>
+      <link>https://mm-crj.github.io/posts/first_post/</link>
+      <pubDate>Fri, 01 Sep 2023 11:30:03 +0000</pubDate>
+      
+      <guid>https://mm-crj.github.io/posts/first_post/</guid>
+      <description>The Derivative Dilemma</description>
+    </item>
+    
     <item>
       <title>Activities</title>
       <link>https://mm-crj.github.io/activities/</link>
@@ -37,15 +46,6 @@
       
       <guid>https://mm-crj.github.io/about/</guid>
       <description>_&amp;#39;It is not who you are underneath, it is what you do that defines you.&amp;#39; -- Batman Begins._</description>
-    </item>
-    
-    <item>
-      <title>The Derivative Dilemma</title>
-      <link>https://mm-crj.github.io/posts/first_post/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://mm-crj.github.io/posts/first_post/</guid>
-      <description>The Derivative Dilemma</description>
     </item>
     
   </channel>
